@@ -1,2 +1,16 @@
-# graduate-time-series-analysis
-Graduate study notes on time series analysis
+# Time Series Data Analysis
+
+시계열 데이터를 예측 문제로 구성하고 분석하는 과정을 정리한 대학원 학습 저장소입니다.
+
+## Topics
+
+- 시계열 예측 문제 정의
+- 지도학습 형태로의 변환
+- 데이터 불러오기와 탐색
+- 특징 생성과 시각화
+- 리샘플링과 보간
+- Power Transform과 이동평균 평활
+- 백색잡음과 랜덤워크
+- 추세·계절성 분해와 처리
+
+교재와 강의 자료 원문 대신 직접 정리한 학습 주제만 공개합니다.
