@@ -1,16 +1,17 @@
-# Time Series Data Analysis
+<p align="center"><img src="./course-panel.svg" width="100%" alt="TIME SERIES ANALYSIS panel"/></p>
 
-시계열 데이터를 예측 문제로 구성하고 분석하는 과정을 정리한 대학원 학습 저장소입니다.
+# TIME SERIES ANALYSIS
 
-## Topics
+대학원 수업에서 작성한 논문 정리, 실습 기록과 모델 분석을 내용 중심으로 복원한 저장소입니다.
 
-- 시계열 예측 문제 정의
-- 지도학습 형태로의 변환
-- 데이터 불러오기와 탐색
-- 특징 생성과 시각화
-- 리샘플링과 보간
-- Power Transform과 이동평균 평활
-- 백색잡음과 랜덤워크
-- 추세·계절성 분해와 처리
+## Archive
 
-교재와 강의 자료 원문 대신 직접 정리한 학습 주제만 공개합니다.
+- [전체 학습 기록 보기](./FULL_NOTES.md)
+- 총 **15개 페이지** 수록
+- 논문 핵심 내용, 수식, 코드, 실험 메모와 개인 해석 유지
+- 개인 식별 정보만 제거
+
+## Research Scope
+
+`FEATURE` · `TREND` · `SEASONALITY` · `NOISE`
+
